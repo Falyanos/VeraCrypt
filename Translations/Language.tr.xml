@@ -7,28 +7,28 @@
     <font lang="tr" class="fixed" size="12" face="Lucida Console" />
     <font lang="tr" class="title" size="21" face="Times New Roman" />
     <entry lang="tr" key="IDCANCEL">İptal</entry>
-    <entry lang="en" key="IDC_ALL_USERS">Install &amp;for all users</entry>
-    <entry lang="en" key="IDC_BROWSE">Bro&amp;wse...</entry>
+    <entry lang="en" key="IDC_ALL_USERS">Tüm kullanıcılar için yükle</entry>
+    <entry lang="en" key="IDC_BROWSE">Gözat...</entry>
     <entry lang="tr" key="IDC_DESKTOP_ICON">VeraCrypt simgesini &amp;masaüstüne ekle</entry>
-    <entry lang="en" key="IDC_DONATE">Donate now...</entry>
-    <entry lang="en" key="IDC_FILE_TYPE">Associate the .hc file &amp;extension with VeraCrypt</entry>
-    <entry lang="en" key="IDC_OPEN_CONTAINING_FOLDER">&amp;Open the destination location when finished</entry>
+    <entry lang="en" key="IDC_DONATE">Bağış Yap...</entry>
+    <entry lang="en" key="IDC_FILE_TYPE">.Hc dosya uzantısını VeraCrypt ile ilişkilendir</entry>
+    <entry lang="en" key="IDC_OPEN_CONTAINING_FOLDER">&amp;Tamamlandığında hedef konumu aç</entry>
     <entry lang="tr" key="IDC_PROG_GROUP">VeraCrypt'i &amp;Başlat menüsüne ekle</entry>
     <entry lang="tr" key="IDC_SYSTEM_RESTORE">Sistem Geri Yükleme &amp;noktası oluştur</entry>
     <entry lang="tr" key="IDC_UNINSTALL">&amp;Kaldır</entry>
-    <entry lang="en" key="IDC_WIZARD_MODE_EXTRACT_ONLY">&amp;Extract</entry>
-    <entry lang="en" key="IDC_WIZARD_MODE_INSTALL">&amp;Install</entry>
-    <entry lang="en" key="IDD_INSTL_DLG">VeraCrypt Setup Wizard</entry>
+    <entry lang="en" key="IDC_WIZARD_MODE_EXTRACT_ONLY">&amp;Çıkart</entry>
+    <entry lang="en" key="IDC_WIZARD_MODE_INSTALL">&amp;Yükle</entry>
+    <entry lang="en" key="IDD_INSTL_DLG">VeraCrypt Kurulum sihirbazı</entry>
     <entry lang="tr" key="IDD_UNINSTALL">VeraCrypt'i Kaldır</entry>
     <entry lang="tr" key="IDHELP">&amp;Yardım</entry>
-    <entry lang="en" key="IDT_EXTRACT_DESTINATION">Please select or type the location where you want to place the extracted files:</entry>
-    <entry lang="en" key="IDT_INSTALL_DESTINATION">Please select or type the location where you want to install the VeraCrypt program files. If the specified folder does not exist, it will be automatically created.</entry>
-    <entry lang="en" key="IDT_UNINSTALL_DIR">Click Uninstall to remove VeraCrypt from this system.</entry>
+    <entry lang="en" key="IDT_EXTRACT_DESTINATION">Lütfen çıkarılan dosyaları yerleştirmek istediğiniz yeri seçin veya yazın:</entry>
+    <entry lang="en" key="IDT_INSTALL_DESTINATION">Lütfen VeraCrypt program dosyalarını kurmak istediğiniz yeri seçin veya yazın. Belirtilen klasör yoksa, otomatik olarak oluşturulur.</entry>
+    <entry lang="en" key="IDT_UNINSTALL_DIR">VeraCrypt programını bu sistemden kaldırmak için Kaldır'ı tıklayın.</entry>
     <entry lang="tr" key="IDC_ABORT_BUTTON">İptal</entry>
-    <entry lang="en" key="IDC_BENCHMARK">&amp;Benchmark</entry>
+    <entry lang="en" key="IDC_BENCHMARK">&amp;Karşılaştırma</entry>
     <entry lang="tr" key="IDC_CIPHER_TEST">&amp;Test</entry>
-    <entry lang="en" key="IDC_DEVICE_TRANSFORM_MODE_FORMAT">Create encrypted volume and format it</entry>
-    <entry lang="en" key="IDC_DEVICE_TRANSFORM_MODE_INPLACE">Encrypt partition in place</entry>
+    <entry lang="en" key="IDC_DEVICE_TRANSFORM_MODE_FORMAT">Şifreli bölüm oluşturun ve biçimlendirin</entry>
+    <entry lang="en" key="IDC_DEVICE_TRANSFORM_MODE_INPLACE">Bölümü için de şifrele</entry>
     <entry lang="en" key="IDC_DISPLAY_KEYS">Display generated keys (their portions)</entry>
     <entry lang="tr" key="IDC_DISPLAY_POOL_CONTENTS">Havuz içeriğini göster</entry>
     <entry lang="en" key="IDC_DOWNLOAD_CD_BURN_SOFTWARE">Download CD/DVD recording software</entry>
